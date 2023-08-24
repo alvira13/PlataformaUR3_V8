@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "/home/leon-demand/Unity/Projects/UR3Project-Final/Interfaz_v8/obj/Debug/project.razor.json",
+  "FilePath": "/home/leon-demand/Unity/Projects/UR3Project-Final/Interfaz_v8/Assembly-CSharp-Editor.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}

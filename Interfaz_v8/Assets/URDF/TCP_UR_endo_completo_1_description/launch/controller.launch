@@ -1,0 +1,9 @@
+<launch>
+
+<rosparam file="$(find TCP_UR_endo_completo_1_description)/launch/controller.yaml" command="load"/>
+<node name="controller_spawner" pkg="controller_manager" type="spawner" respawn="false" output="screen" ns="TCP_UR_endo_completo_1" args="joint_state_controller "/>
+<node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" respawn="false" output="screen">
+  <remap from="/joint_states" to="/TCP_UR_endo_completo_1/joint_states"/>
+</node>
+
+</launch>
