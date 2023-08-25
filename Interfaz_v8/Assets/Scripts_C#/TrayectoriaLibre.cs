@@ -3,6 +3,12 @@ Autores:    Juan David Ruiz (juandavidrf@unicauca.edu.co)
             Sebastian Montenegro (exlogam@unicauca.edu.co)
 *******************/
 
+/*******************
+    Este script ha sido ligeramente modificado por:
+           Jan Carlos Alvira Meneses(janalvira@unicauca.edu.co)
+           Leonardo Alberto Paz Paz (leopaz@unicauca.edu.co)
+*******************/
+
 /********************* Librerias ********************/
 using System;
 using System.Collections;
