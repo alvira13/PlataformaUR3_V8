@@ -19,9 +19,9 @@ Plataforma abordaje endonasal con robot UR3
 
  <div>
    <p align="center">
-<img  src="https://github.com/alvira13/PlataformaUR3_V8/blob/main/Resources/Vista_orig.png" alt="Universal Robot e-Series family" style="width: 51%;"/>
+<img  src="https://github.com/alvira13/PlataformaUR3_V8/blob/main/Resources/Vista_orig.png" alt="Universal Robot e-Series family" style="width: 46%;"/>
 
-<img  src="https://github.com/alvira13/PlataformaUR3_V8/blob/main/Resources/origejecutable.png" alt="Universal Robot e-Series family" style="width: 50%;"/>
+<img  src="https://github.com/alvira13/PlataformaUR3_V8/blob/main/Resources/origejecutable.png" alt="Universal Robot e-Series family" style="width: 45%;"/>
 </div>
 
     
