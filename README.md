@@ -28,6 +28,9 @@ Plataforma abordaje endonasal con robot UR3
     
  --------------------------
 
+ ### Download v6 executable:
+El siguiente ejecutable es construido en Unity3d, se puede descargar de
+
 ## :shipit:: Autores ✒️
 - Leonardo Alberto Paz Paz   (leopaz@unicauca.edu.co)
 - Jan Carlos Alvira Meneses  (janalvira@unicauca.edu.co)
