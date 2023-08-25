@@ -26,7 +26,7 @@ Plataforma abordaje endonasal con robot UR3
 
     
  --------------------------
- ## Autores ✒️
+
 ## :shipit:: Autores ✒️
 - Leonardo Alberto Paz Paz   (leopaz@unicauca.edu.co)
 - Jan Carlos Alvira Meneses  (janalvira@unicauca.edu.co)
