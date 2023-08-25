@@ -9,11 +9,12 @@ Plataforma abordaje endonasal con robot UR3
 
 ## :scroll: Contents: 
   - **Intefaz_v8**:    Contiene el proyecto construido en Unity3d.
-  - [Repositorio **Interfaz_V7** con sus pasos y requisitos:](https://github.com/sebastian775/UR3Project)
+ 
 
     // ## :exclamation:
  ## :exclamation: Importante!
  - Establecer conexión por medio de cable Ethernet para evitar la perdida de datos.
+ - [Repositorio **Interfaz_V7** con sus pasos y requisitos:](https://github.com/sebastian775/UR3Project).
   --------------------------
 
 
