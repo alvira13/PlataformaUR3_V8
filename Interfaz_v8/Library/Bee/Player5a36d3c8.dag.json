@@ -1,0 +1,2348 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/boot.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/boot.config"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/boot.config"
+      ],
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/ScriptingAssemblies.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/ScriptingAssemblies.json"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/ScriptingAssemblies.json"
+      ],
+      "DebugActionIndex": 2
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/RuntimeInitializeOnLoads.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/RuntimeInitializeOnLoads.json"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/RuntimeInitializeOnLoads.json"
+      ],
+      "DebugActionIndex": 3
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/data.unity3d",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Linux64/Data/data.unity3d"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/data.unity3d"
+      ],
+      "DebugActionIndex": 4
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Plugins/liblibvhacd.so",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PackageCache/com.unity.robotics.urdf-importer@e9859c4bec/Runtime/VHACD/liblibvhacd.so"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Plugins/liblibvhacd.so"
+      ],
+      "DebugActionIndex": 5
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Plugins/libassimp.so",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PackageCache/com.unity.robotics.urdf-importer@e9859c4bec/Runtime/UnityMeshImporter/Plugins/AssimpNet/Native/linux/x86_64/libassimp.so"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Plugins/libassimp.so"
+      ],
+      "DebugActionIndex": 6
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/websocket-sharp.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/websocket-sharp.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/websocket-sharp.dll"
+      ],
+      "DebugActionIndex": 7
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+      ],
+      "DebugActionIndex": 8
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.InputLegacyModule.dll"
+      ],
+      "DebugActionIndex": 9
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Threading.Tasks.Extensions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Threading.Tasks.Extensions.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Threading.Tasks.Extensions.dll"
+      ],
+      "DebugActionIndex": 10
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UNETModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UNETModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UNETModule.dll"
+      ],
+      "DebugActionIndex": 11
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.SubstanceModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SubstanceModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.SubstanceModule.dll"
+      ],
+      "DebugActionIndex": 12
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Runtime.InteropServices.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Runtime.InteropServices.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Runtime.InteropServices.dll"
+      ],
+      "DebugActionIndex": 13
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.DirectorModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.DirectorModule.dll"
+      ],
+      "DebugActionIndex": 14
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.VisualScripting.Flow.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.Flow.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.VisualScripting.Flow.dll"
+      ],
+      "DebugActionIndex": 15
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Console.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Console.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Console.dll"
+      ],
+      "DebugActionIndex": 16
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Newtonsoft.Json.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Newtonsoft.Json.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Newtonsoft.Json.dll"
+      ],
+      "DebugActionIndex": 17
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.Robotics.UrdfImporter.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Robotics.UrdfImporter.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.Robotics.UrdfImporter.dll"
+      ],
+      "DebugActionIndex": 18
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.ParticleSystemModule.dll"
+      ],
+      "DebugActionIndex": 19
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Text.Encoding.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Text.Encoding.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Text.Encoding.dll"
+      ],
+      "DebugActionIndex": 20
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.EnterpriseServices.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.EnterpriseServices.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.EnterpriseServices.dll"
+      ],
+      "DebugActionIndex": 21
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Xml.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Xml.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Xml.dll"
+      ],
+      "DebugActionIndex": 22
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Drawing.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Drawing.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Drawing.dll"
+      ],
+      "DebugActionIndex": 23
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.ServiceModel.Internals.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.ServiceModel.Internals.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.ServiceModel.Internals.dll"
+      ],
+      "DebugActionIndex": 24
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.Physics2DModule.dll"
+      ],
+      "DebugActionIndex": 25
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.SharedInternalsModule.dll"
+      ],
+      "DebugActionIndex": 26
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Runtime.Extensions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Runtime.Extensions.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Runtime.Extensions.dll"
+      ],
+      "DebugActionIndex": 27
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Urdf.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Urdf.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Urdf.dll"
+      ],
+      "DebugActionIndex": 28
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/RosBridgeClient.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/RosBridgeClient.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/RosBridgeClient.dll"
+      ],
+      "DebugActionIndex": 29
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ScreenCaptureModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.ScreenCaptureModule.dll"
+      ],
+      "DebugActionIndex": 30
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.Mathematics.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Mathematics.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.Mathematics.dll"
+      ],
+      "DebugActionIndex": 31
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.CoreModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.CoreModule.dll"
+      ],
+      "DebugActionIndex": 32
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll"
+      ],
+      "DebugActionIndex": 33
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.IO.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.IO.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.IO.dll"
+      ],
+      "DebugActionIndex": 34
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VirtualTexturingModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.VirtualTexturingModule.dll"
+      ],
+      "DebugActionIndex": 35
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Threading.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Threading.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Threading.dll"
+      ],
+      "DebugActionIndex": 36
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.WindModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.WindModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.WindModule.dll"
+      ],
+      "DebugActionIndex": 37
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.AssetBundleModule.dll"
+      ],
+      "DebugActionIndex": 38
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/mscorlib.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/mscorlib.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/mscorlib.dll"
+      ],
+      "DebugActionIndex": 39
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.PhysicsModule.dll"
+      ],
+      "DebugActionIndex": 40
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Mono.Security.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Mono.Security.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Mono.Security.dll"
+      ],
+      "DebugActionIndex": 41
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Collections.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Collections.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Collections.dll"
+      ],
+      "DebugActionIndex": 42
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Configuration.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Configuration.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Configuration.dll"
+      ],
+      "DebugActionIndex": 43
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UIElementsModule.dll"
+      ],
+      "DebugActionIndex": 44
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.AndroidJNIModule.dll"
+      ],
+      "DebugActionIndex": 45
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.VRModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.VRModule.dll"
+      ],
+      "DebugActionIndex": 46
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.AnimationModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.AnimationModule.dll"
+      ],
+      "DebugActionIndex": 47
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Security.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Security.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Security.dll"
+      ],
+      "DebugActionIndex": 48
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.IO.Compression.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.IO.Compression.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.IO.Compression.dll"
+      ],
+      "DebugActionIndex": 49
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.SubsystemsModule.dll"
+      ],
+      "DebugActionIndex": 50
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.InputModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.InputModule.dll"
+      ],
+      "DebugActionIndex": 51
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.TerrainModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.TerrainModule.dll"
+      ],
+      "DebugActionIndex": 52
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.LocalizationModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.LocalizationModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.LocalizationModule.dll"
+      ],
+      "DebugActionIndex": 53
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Data.DataSetExtensions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Data.DataSetExtensions.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Data.DataSetExtensions.dll"
+      ],
+      "DebugActionIndex": 54
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityCurlModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityCurlModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityCurlModule.dll"
+      ],
+      "DebugActionIndex": 55
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.IO.FileSystem.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.IO.FileSystem.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.IO.FileSystem.dll"
+      ],
+      "DebugActionIndex": 56
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Transactions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Transactions.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Transactions.dll"
+      ],
+      "DebugActionIndex": 57
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.ComponentModel.Composition.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.ComponentModel.Composition.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.ComponentModel.Composition.dll"
+      ],
+      "DebugActionIndex": 58
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+      ],
+      "DebugActionIndex": 59
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AccessibilityModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.AccessibilityModule.dll"
+      ],
+      "DebugActionIndex": 60
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Runtime.CompilerServices.Unsafe.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll"
+      ],
+      "DebugActionIndex": 61
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+      ],
+      "DebugActionIndex": 62
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.VFXModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.VFXModule.dll"
+      ],
+      "DebugActionIndex": 63
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Assembly-CSharp.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Assembly-CSharp.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Assembly-CSharp.dll"
+      ],
+      "DebugActionIndex": 64
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
+      ],
+      "DebugActionIndex": 65
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.SpriteShapeModule.dll"
+      ],
+      "DebugActionIndex": 66
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/netstandard.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/netstandard.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/netstandard.dll"
+      ],
+      "DebugActionIndex": 67
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Xml.Linq.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Xml.Linq.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Xml.Linq.dll"
+      ],
+      "DebugActionIndex": 68
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Globalization.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Globalization.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Globalization.dll"
+      ],
+      "DebugActionIndex": 69
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Threading.Channels.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Threading.Channels.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Threading.Channels.dll"
+      ],
+      "DebugActionIndex": 70
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ClusterInputModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.ClusterInputModule.dll"
+      ],
+      "DebugActionIndex": 71
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Cinemachine.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Cinemachine.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Cinemachine.dll"
+      ],
+      "DebugActionIndex": 72
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Text.Encodings.Web.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Text.Encodings.Web.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Text.Encodings.Web.dll"
+      ],
+      "DebugActionIndex": 73
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Memory.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Memory.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Memory.dll"
+      ],
+      "DebugActionIndex": 74
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.ClothModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ClothModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.ClothModule.dll"
+      ],
+      "DebugActionIndex": 75
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.XRModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.XRModule.dll"
+      ],
+      "DebugActionIndex": 76
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Reflection.Extensions.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Reflection.Extensions.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Reflection.Extensions.dll"
+      ],
+      "DebugActionIndex": 77
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.PerformanceReportingModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.PerformanceReportingModule.dll"
+      ],
+      "DebugActionIndex": 78
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.VideoModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.VideoModule.dll"
+      ],
+      "DebugActionIndex": 79
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.GameCenterModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.GameCenterModule.dll"
+      ],
+      "DebugActionIndex": 80
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityWebRequestModule.dll"
+      ],
+      "DebugActionIndex": 81
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Runtime.Serialization.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Runtime.Serialization.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Runtime.Serialization.dll"
+      ],
+      "DebugActionIndex": 82
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.TilemapModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.TilemapModule.dll"
+      ],
+      "DebugActionIndex": 83
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.GridModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.GridModule.dll"
+      ],
+      "DebugActionIndex": 84
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/vhacd.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/vhacd.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/vhacd.dll"
+      ],
+      "DebugActionIndex": 85
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Data.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Data.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Data.dll"
+      ],
+      "DebugActionIndex": 86
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.StreamingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.StreamingModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.StreamingModule.dll"
+      ],
+      "DebugActionIndex": 87
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Reflection.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Reflection.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Reflection.dll"
+      ],
+      "DebugActionIndex": 88
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.AIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.AIModule.dll"
+      ],
+      "DebugActionIndex": 89
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Text.Json.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Text.Json.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Text.Json.dll"
+      ],
+      "DebugActionIndex": 90
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Core.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Core.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Core.dll"
+      ],
+      "DebugActionIndex": 91
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.TextRenderingModule.dll"
+      ],
+      "DebugActionIndex": 92
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UIModule.dll"
+      ],
+      "DebugActionIndex": 93
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SpriteMaskModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.SpriteMaskModule.dll"
+      ],
+      "DebugActionIndex": 94
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityConnectModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityConnectModule.dll"
+      ],
+      "DebugActionIndex": 95
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.AudioModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.AudioModule.dll"
+      ],
+      "DebugActionIndex": 96
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.VisualScripting.State.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.State.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.VisualScripting.State.dll"
+      ],
+      "DebugActionIndex": 97
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TerrainPhysicsModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.TerrainPhysicsModule.dll"
+      ],
+      "DebugActionIndex": 98
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
+      ],
+      "DebugActionIndex": 99
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/AssimpNet.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/AssimpNet.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/AssimpNet.dll"
+      ],
+      "DebugActionIndex": 100
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Newtonsoft.Json.Bson.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Newtonsoft.Json.Bson.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Newtonsoft.Json.Bson.dll"
+      ],
+      "DebugActionIndex": 101
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ClusterRendererModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.ClusterRendererModule.dll"
+      ],
+      "DebugActionIndex": 102
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.TextMeshPro.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.TextMeshPro.dll"
+      ],
+      "DebugActionIndex": 103
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.JSONSerializeModule.dll"
+      ],
+      "DebugActionIndex": 104
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Numerics.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Numerics.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Numerics.dll"
+      ],
+      "DebugActionIndex": 105
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+      ],
+      "DebugActionIndex": 106
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.AppContext.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.AppContext.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.AppContext.dll"
+      ],
+      "DebugActionIndex": 107
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Net.Http.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Net.Http.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Net.Http.dll"
+      ],
+      "DebugActionIndex": 108
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.CrashReportingModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.CrashReportingModule.dll"
+      ],
+      "DebugActionIndex": 109
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Microsoft.Bcl.AsyncInterfaces.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Microsoft.Bcl.AsyncInterfaces.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Microsoft.Bcl.AsyncInterfaces.dll"
+      ],
+      "DebugActionIndex": 110
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Diagnostics.Debug.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Diagnostics.Debug.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Diagnostics.Debug.dll"
+      ],
+      "DebugActionIndex": 111
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll"
+      ],
+      "DebugActionIndex": 112
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.DSPGraphModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.DSPGraphModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.DSPGraphModule.dll"
+      ],
+      "DebugActionIndex": 113
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Runtime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Runtime.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Runtime.dll"
+      ],
+      "DebugActionIndex": 114
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Buffers.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Buffers.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Buffers.dll"
+      ],
+      "DebugActionIndex": 115
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.GIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.GIModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.GIModule.dll"
+      ],
+      "DebugActionIndex": 116
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.ImageConversionModule.dll"
+      ],
+      "DebugActionIndex": 117
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Numerics.Vectors.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Numerics.Vectors.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Numerics.Vectors.dll"
+      ],
+      "DebugActionIndex": 118
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.IO.Compression.FileSystem.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.IO.Compression.FileSystem.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.IO.Compression.FileSystem.dll"
+      ],
+      "DebugActionIndex": 119
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.TLSModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TLSModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.TLSModule.dll"
+      ],
+      "DebugActionIndex": 120
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.dll"
+      ],
+      "DebugActionIndex": 121
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.dll"
+      ],
+      "DebugActionIndex": 122
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Runtime.InteropServices.RuntimeInformation.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Runtime.InteropServices.RuntimeInformation.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/System.Runtime.InteropServices.RuntimeInformation.dll"
+      ],
+      "DebugActionIndex": 123
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.ProfilerModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ProfilerModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.ProfilerModule.dll"
+      ],
+      "DebugActionIndex": 124
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityTestProtocolModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityTestProtocolModule.dll"
+      ],
+      "DebugActionIndex": 125
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UI.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UI.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UI.dll"
+      ],
+      "DebugActionIndex": 126
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UIElementsNativeModule.dll"
+      ],
+      "DebugActionIndex": 127
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/MessageGeneration.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/MessageGeneration.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/MessageGeneration.dll"
+      ],
+      "DebugActionIndex": 128
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.HotReloadModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.HotReloadModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.HotReloadModule.dll"
+      ],
+      "DebugActionIndex": 129
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UmbraModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UmbraModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UmbraModule.dll"
+      ],
+      "DebugActionIndex": 130
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.UnityAnalyticsModule.dll"
+      ],
+      "DebugActionIndex": 131
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.Timeline.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Timeline.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.Timeline.dll"
+      ],
+      "DebugActionIndex": 132
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.VehiclesModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VehiclesModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.VehiclesModule.dll"
+      ],
+      "DebugActionIndex": 133
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.VisualScripting.Core.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/Unity.VisualScripting.Core.dll"
+      ],
+      "DebugActionIndex": 134
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Managed/UnityEngine.IMGUIModule.dll"
+      ],
+      "DebugActionIndex": 135
+    },
+    {
+      "Annotation": "WriteText Library/Bee/artifacts/LinuxPlayerBuildProgram/Data/app.info",
+      "ActionType": "WriteTextFile",
+      "WriteTextFilePayload": "PTJD-ST3D\nPPMUR3",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/Data/app.info"
+      ],
+      "AllowUnwrittenOutputFiles": true,
+      "DebugActionIndex": 136
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/UnityPlayer.so",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/UnityPlayer.so"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/UnityPlayer.so"
+      ],
+      "DebugActionIndex": 137
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable.x86_64",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/LinuxPlayer"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable.x86_64"
+      ],
+      "DebugActionIndex": 138
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Resources/unity default resources",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/Resources/unity default resources"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Resources/unity default resources"
+      ],
+      "DebugActionIndex": 139
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/config"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/config"
+      ],
+      "DebugActionIndex": 140
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so"
+      ],
+      "DebugActionIndex": 141
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so"
+      ],
+      "DebugActionIndex": 142
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/x86_64/libmono-native.so",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/x86_64/libmono-native.so"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/x86_64/libmono-native.so"
+      ],
+      "DebugActionIndex": 143
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/config"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/config"
+      ],
+      "DebugActionIndex": 144
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/browscap.ini",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/browscap.ini"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/browscap.ini"
+      ],
+      "DebugActionIndex": 145
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/2.0/machine.config"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/2.0/machine.config"
+      ],
+      "DebugActionIndex": 146
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/2.0/settings.map"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/2.0/settings.map"
+      ],
+      "DebugActionIndex": 147
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 148
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/2.0/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/2.0/web.config"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/2.0/web.config"
+      ],
+      "DebugActionIndex": 149
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.5/machine.config"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.5/machine.config"
+      ],
+      "DebugActionIndex": 150
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.5/settings.map"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.5/settings.map"
+      ],
+      "DebugActionIndex": 151
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 152
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.5/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.5/web.config"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.5/web.config"
+      ],
+      "DebugActionIndex": 153
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/mconfig/config.xml"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml"
+      ],
+      "DebugActionIndex": 154
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.0/machine.config"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.0/machine.config"
+      ],
+      "DebugActionIndex": 155
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.0/settings.map"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.0/settings.map"
+      ],
+      "DebugActionIndex": 156
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 157
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.0/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.0/web.config"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.0/web.config"
+      ],
+      "DebugActionIndex": 158
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 159
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 160
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 161
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/app.info",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/LinuxPlayerBuildProgram/Data/app.info"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/app.info"
+      ],
+      "ToBuildDependencies": [
+        136
+      ],
+      "DebugActionIndex": 162
+    },
+    {
+      "Annotation": "CopyFiles /home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Resources/UnityPlayer.png",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/UnityPlayer.png"
+      ],
+      "Outputs": [
+        "/home/leon-demand/Downloads/Interfaz_V8/Ejecutable_Data/Resources/UnityPlayer.png"
+      ],
+      "DebugActionIndex": 163
+    },
+    {
+      "Annotation": "Player",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 164
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/LinuxPlayerBuildProgram.Data.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/LinuxPlayerBuildProgram.exe"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.BuildTools.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.CSharpSupport.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.Core.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.DotNet.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.NativeProgramSupport.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.Stevedore.Program.exe"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.TinyProfiler2.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.GNU.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.LLVM.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.VisualStudio.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.Xcode.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.Tools.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.TundraBackend.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.VisualStudioSolution.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.Data.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/ClassRegistrationGenerator.exe"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Newtonsoft.Json.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/NiceIO.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.Data.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.Data.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.exe"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/SharpYaml.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.Api.Attributes.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Mdb.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Pdb.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Rocks.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Api.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.BuildLogic.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.Linker.Api.dll"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.Options.dll"
+    },
+    {
+      "File": "Library/Bee/Player5a36d3c8-inputdata.json"
+    }
+  ],
+  "StatSignatures": [
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport"
+    },
+    {
+      "File": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge"
+    },
+    {
+      "File": "Library/Bee/Player5a36d3c8-inputdata.json"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.robotics.urdf-importer@e9859c4bec/Runtime/UnityMeshImporter/Plugins/AssimpNet/Native/linux/x86_64/libassimp.so"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.robotics.urdf-importer@e9859c4bec/Runtime/VHACD/liblibvhacd.so"
+    },
+    {
+      "File": "Temp/StagingArea/UnityPlayer.png"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport"
+    },
+    {
+      "Path": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/linux64_player_nondevelopment_mono/Data/MonoBleedingEdge",
+      "Recurse": 1
+    },
+    {
+      "Path": "/home/leon-demand/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Tools/BuildPipeline"
+    },
+    {
+      "Path": "Assets/StreamingAssets",
+      "Recurse": 1
+    },
+    {
+      "Path": "Library/PlayerDataCache/Linux64/Data",
+      "Recurse": 1
+    },
+    {
+      "Path": "Temp/StagingArea/Data/Managed"
+    },
+    {
+      "Path": "Temp/StagingArea/Data/Plugins"
+    },
+    {
+      "Path": "Temp/StagingArea/Data/UnitySubsystems",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".winmd",
+    ".pdb",
+    ".cpp",
+    ".cc",
+    ".c",
+    ".hpp",
+    ".h",
+    ".json",
+    ".xml",
+    ".txt",
+    ".config"
+  ],
+  "StructuredLogFileName": "Library/Bee/tundra.log.json",
+  "StateFileName": "Library/Bee/TundraBuildState.state",
+  "StateFileNameTmp": "Library/Bee/TundraBuildState.state.tmp",
+  "StateFileNameMapped": "Library/Bee/TundraBuildState.state.map",
+  "ScanCacheFileName": "Library/Bee/tundra.scancache",
+  "ScanCacheFileNameTmp": "Library/Bee/tundra.scancache.tmp",
+  "DigestCacheFileName": "Library/Bee/tundra.digestcache",
+  "DigestCacheFileNameTmp": "Library/Bee/tundra.digestcache.tmp",
+  "EmitDataForBeeWhy": 0,
+        "NamedNodes": {
+          "all_tundra_nodes": 0,
+          "Player": 164
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "Library/Bee/Player5a36d3c8.dag.json",
+  "RelativePathToRoot": "../.."
+}

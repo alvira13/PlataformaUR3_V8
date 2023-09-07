@@ -3,12 +3,6 @@ Autores:    Juan David Ruiz (juandavidrf@unicauca.edu.co)
             Sebastian Montenegro (exlogam@unicauca.edu.co)
 *******************/
 
-/*******************
-    Este script ha sido ligeramente modificado por:
-           Leonardo Alberto Paz Paz (leopaz@unicauca.edu.co)
-           Jan Carlos Alvira Meneses(janalvira@unicauca.edu.co)          
-*******************/
-
 /********************* Librerias ********************/
 using System;
 using System.Collections;
@@ -263,7 +257,6 @@ public class TrayectoriaLibre : MonoBehaviour
         if(opcion == 1)
         {
             publicador.Trayectoria(figura, Linea.positionCount, velocidad);
-
             /* Reiniciamos en ceros el arreglo que guarda trayectorias pasadas (para evitar recorrer alguna trayectoria guardada,
             en caso de que se haya estado utilizando la opción 2 previamente y se quiera volver a esta nuevamente.*/
             for (int i = 0; i < 50; i++)
@@ -275,7 +268,6 @@ public class TrayectoriaLibre : MonoBehaviour
                 // Eje z
                 figura_past[i,2] = 0;
             }
-
         }
         //Opción 2 (La orientación de la pinza está dada por la inclinación del "line renderer")
         if(opcion == 2)

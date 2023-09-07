@@ -3,12 +3,6 @@ Autores:    Juan David Ruiz (juandavidrf@unicauca.edu.co)
             Sebastian Montenegro (exlogam@unicauca.edu.co)
 *******************/
 
-/*******************
-Este script ha sido ligeramente modificado por:
-           Jan Carlos Alvira Meneses(janalvira@unicauca.edu.co)
-           Leonardo Alberto Paz Paz (leopaz@unicauca.edu.co)
-*******************/
-
 /********************* Librerias ********************/
 using System;
 using System.Collections;
@@ -23,6 +17,7 @@ namespace RosSharp.RosBridgeClient
     {
         /**************** Variables ******************/
         //public Vector3 angle = new Vector3(0,180,0);  // Hacemos pruebas en el Inspector ingresando ángulos manualmente
+        private Vector3 angle_posini = new Vector3(-161.63f,-16.13f,180); // Ángulos Euler de la posición inicial
         private MessageTypes.CartesianControl.CartesianTrajectory message;  //Mensaje ROS de tipo CartesianTrajectory
 
         /**************** Funciones ******************/
@@ -51,13 +46,14 @@ namespace RosSharp.RosBridgeClient
             message.points = new MessageTypes.CartesianControl.CartesianTrajectoryPoint[1];
             message.points[0] = new MessageTypes.CartesianControl.CartesianTrajectoryPoint();
 
-            message.points[0].pose.position.x = -0.17;  // Medida en metros 
-            message.points[0].pose.position.y = -0.17;  
-            message.points[0].pose.position.z = 0.28;   
-            message.points[0].pose.orientation.x = 0;      // 1/Mathf.Sqrt(2)
-            message.points[0].pose.orientation.y = 1;      // 1/Mathf.Sqrt(2)
-            message.points[0].pose.orientation.z = 0;  
-            message.points[0].pose.orientation.w = 0;  
+            message.points[0].pose.position.x = -0.22797;  // -0.17 (Medida en metros)
+            message.points[0].pose.position.y = -0.21678;  // -0.17
+            message.points[0].pose.position.z = 0.35115;   // 0.28
+            Quaternion cuaternions = ToQuaternion(angle_posini);  // Ángulos cuaterniones de la posición incial 
+            message.points[0].pose.orientation.x = cuaternions.x;      // 1/Mathf.Sqrt(2)
+            message.points[0].pose.orientation.y = cuaternions.y;      // 1/Mathf.Sqrt(2)
+            message.points[0].pose.orientation.z = cuaternions.z;  
+            message.points[0].pose.orientation.w = cuaternions.w;  
 
             message.points[0].twist.linear.x = velocidad;
             UpdateMessage();

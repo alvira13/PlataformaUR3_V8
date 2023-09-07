@@ -4413,7 +4413,7 @@ MonoBehaviour:
   m_TargetMovementOnly: 1
   m_ScreenX: 0.5
   m_ScreenY: 0.5
-  m_CameraDistance: 17.01
+  m_CameraDistance: 1.260002
   m_DeadZoneWidth: 0
   m_DeadZoneHeight: 0
   m_DeadZoneDepth: 0
@@ -10210,7 +10210,7 @@ MonoBehaviour:
   m_TargetMovementOnly: 0
   m_ScreenX: 0.46
   m_ScreenY: 0.5
-  m_CameraDistance: 18
+  m_CameraDistance: 2.25
   m_DeadZoneWidth: 0
   m_DeadZoneHeight: 0
   m_DeadZoneDepth: 0
@@ -12580,7 +12580,7 @@ MonoBehaviour:
   m_TargetMovementOnly: 0
   m_ScreenX: 0.5
   m_ScreenY: 0.5
-  m_CameraDistance: 17.01
+  m_CameraDistance: 1.260002
   m_DeadZoneWidth: 0
   m_DeadZoneHeight: 0
   m_DeadZoneDepth: 0
@@ -15628,8 +15628,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Tipos de vista:\n- Frontal/Trasera:\tT\n- Laterales: \t\tY\n- Superior: 
-    \t\tU\n- Original: \t\tR"
+  m_text: "Tipos de vista:\n- Superior/Inferior:     T\n- Laterales: \t             
+    Y\n- Diagonal/Anterior:   U\n- Posterior interna:     F\n- Endoscopio:           
+    D\n- Original: \t              R"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -25007,7 +25008,7 @@ MonoBehaviour:
   m_TargetMovementOnly: 1
   m_ScreenX: 0.5
   m_ScreenY: 0.5
-  m_CameraDistance: 17.01
+  m_CameraDistance: 1.260002
   m_DeadZoneWidth: 0
   m_DeadZoneHeight: 0
   m_DeadZoneDepth: 0
@@ -27278,7 +27279,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1515543046
 Transform:
   m_ObjectHideFlags: 0
@@ -29769,13 +29770,13 @@ MonoBehaviour:
   m_LookAt: {fileID: 713103952}
   m_Follow: {fileID: 713103952}
   m_Lens:
-    FieldOfView: 85.99908
+    FieldOfView: 96.65669
     OrthographicSize: 5
     NearClipPlane: 0.001
     FarClipPlane: 1000
-    Dutch: 0
+    Dutch: 134.1
     ModeOverride: 0
-    LensShift: {x: 0, y: 0}
+    LensShift: {x: 0, y: -0.045}
     GateFit: 2
     m_SensorSize: {x: 43.2, y: 37.3}
   m_Transitions:
@@ -31623,7 +31624,7 @@ MonoBehaviour:
   m_TargetMovementOnly: 0
   m_ScreenX: 0.5
   m_ScreenY: 0.5
-  m_CameraDistance: 17.01
+  m_CameraDistance: 1.260002
   m_DeadZoneWidth: 0
   m_DeadZoneHeight: 0
   m_DeadZoneDepth: 0

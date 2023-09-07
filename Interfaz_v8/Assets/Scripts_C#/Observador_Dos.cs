@@ -1,7 +1,4 @@
-/*******************
-Autores:    Jan Carlos Alvira Meneses(janalvira@unicauca.edu.co)
-            Leonardo Alberto Paz Paz (leopaz@unicauca.edu.co)
-*******************/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
