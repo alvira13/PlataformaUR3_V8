@@ -1,0 +1,100 @@
+rostopic echo /Trayectias
+header: 
+  seq: 54
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+points: 
+  - 
+    time_from_start: 
+      secs: 0
+      nsecs:         0
+    pose: 
+      position: 
+        x: -0.264334142208
+        y: -0.24480779469
+        z: 0.271471083164
+      orientation: 
+        x: -0.0310008116066
+        y: 0.968501210213
+        z: -0.189770191908
+        w: -0.158214107156
+    twist: 
+      linear: 
+        x: 0.00600000005215
+        y: 0.0
+        z: 0.0
+      angular: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+    acceleration: 
+      linear: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      angular: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+    jerk: 
+      linear: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      angular: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+    posture: 
+      posture_joint_names: []
+      posture_joint_values: []
+  - 
+    time_from_start: 
+      secs: 0
+      nsecs:         0
+    pose: 
+      position: 
+        x: -0.309906214476
+        y: -0.303168684244
+        z: 0.135709613562
+      orientation: 
+        x: -0.0310008116066
+        y: 0.968501210213
+        z: -0.189770191908
+        w: -0.158214107156
+    twist: 
+      linear: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      angular: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+    acceleration: 
+      linear: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      angular: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+    jerk: 
+      linear: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      angular: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+    posture: 
+      posture_joint_names: []
+      posture_joint_values: []
+controlled_frame: ''
+---
+
+
