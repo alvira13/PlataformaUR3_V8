@@ -31,7 +31,7 @@ Plataforma abordaje endonasal con robot UR3
  --------------------------
 
  ### Download v8 executable:
-El siguiente ejecutable es construido en Unity3d, se puede descargar de
+El siguiente ejecutable es construido en Unity3d, se puede descargar de [ejecutable](https://github.com/alvira13/PlataformaUR3_V8/releases/download/v8.0/Ejecutable.zip)
 
 ## :shipit:: Autores ✒️
 - Leonardo Alberto Paz Paz   (leopaz@unicauca.edu.co)
