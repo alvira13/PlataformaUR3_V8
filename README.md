@@ -9,8 +9,9 @@ Plataforma abordaje endonasal con robot UR3
 
 ## :scroll: Contents: 
   - **Intefaz_v8**:    Contiene el proyecto construido en Unity3d.
-  -  **Ejecutable**: Contiene el ejecutable del proyecto.
+  - **Ejecutable**: Contiene el ejecutable del proyecto.
   - [Guia de usuario:***video***](https://youtu.be/SUEaiMpRDwI).
+  - [***Abordaje endonasal:***](https://youtu.be/2GFgaUTg0pg)
   
  
  
