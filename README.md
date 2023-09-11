@@ -41,7 +41,7 @@ El siguiente ejecutable es construido en Unity3d, se puede descargar de [ejecuta
 
 ***A aquellos que levantaron el proyecto desde sus inicios***
 
-- Juan David Ruz            (juandarf@unicauca.edu.co)
+- Juan David Ruiz            (juandarf@unicauca.edu.co)
 - Juan Sebastian Montenegro (exlogam@unicauca.edu.co)
 
   🚀 
