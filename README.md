@@ -10,6 +10,7 @@ Plataforma abordaje endonasal con robot UR3
 ## :scroll: Contents: 
   - **Intefaz_v8**:    Contiene el proyecto construido en Unity3d.
   - **Ejecutable**: Contiene el ejecutable del proyecto.
+  - **Resources**: Carpeta con trayectorias endonasales + 4 videos de soporte y manual de usuario
   - [Guia de usuario:***video***](https://youtu.be/SUEaiMpRDwI).
   - [***Abordaje endonasal***](https://youtu.be/2GFgaUTg0pg)
   
@@ -35,6 +36,9 @@ Plataforma abordaje endonasal con robot UR3
 
  ### Download v8 executable:
 El siguiente ejecutable es construido en Unity3d, se puede descargar de [ejecutable](https://github.com/alvira13/PlataformaUR3_V8/releases/download/v8.0/Ejecutable.zip)
+
+###  Uso de ejecutable:
+**Nota**:Para el correcto uso del ejecutable se debe seguir las indicaciones como muestra el [manual del Usuario](https://github.com/alvira13/PlataformaUR3_V8/blob/main/Resources/Gu%C3%ADa%20de%20usuario/Manual%20de%20Usuario.pdf)
 
 ## :shipit:: Autores ✒️
 - Leonardo Alberto Paz Paz   (leopaz@unicauca.edu.co)
