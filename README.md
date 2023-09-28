@@ -108,6 +108,7 @@ Ahora ejecutar el archivo llamado ***Ejecutable_V8.x86_64*** contenido en esta c
 - Leonardo Alberto Paz Paz   (leopaz@unicauca.edu.co)
 - Jan Carlos Alvira Meneses  (janalvira@unicauca.edu.co)
 
+## Agradecimientos 🏆
 ***A aquellos que levantaron el proyecto desde sus inicios***
 
 - Juan David Ruiz            (juandarf@unicauca.edu.co)
