@@ -1,5 +1,5 @@
 # UR3 Project_V8
-Plataforma abordaje endonasal con robot UR3
+Plataforma de abordaje endonasal con robot UR3
 
  ## :stop_sign: Requirements: 
   - Ubuntu 18.04 +
