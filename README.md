@@ -8,9 +8,9 @@ Plataforma de abordaje endonasal con robot UR3
   - Unity 2021.3.0f1 +
 
 ## :scroll: Contents: 
-  - **Intefaz_v8**:    Contiene el proyecto construido en Unity3d.
+  - **Intefaz_v8**:    Contiene el proyecto construido en Unity3D.
   - **Ejecutable**: Contiene el ejecutable del proyecto.
-  - **Resources**: Carpeta con trayectorias endonasales + 4 videos de soporte y manual de usuario
+  - **Resources**: Carpeta con trayectorias endonasales + 4 videos de soporte y manual de usuario.
   - [Guia de usuario:***video***](https://youtu.be/SUEaiMpRDwI).
   - [***Abordaje endonasal***](https://youtu.be/2GFgaUTg0pg)
   
@@ -74,10 +74,10 @@ $ sudo apt-get install ros-melodic-rosbridge-server
  --------------------------
 
  ### Download v8 executable:
-El siguiente ejecutable es construido en Unity3d, se puede descargar de [ejecutable](https://github.com/alvira13/PlataformaUR3_V8/releases/download/v8.0/Ejecutable.zip)
+El siguiente ejecutable es construido en Unity3D, se puede descargar de [ejecutable].(https://github.com/alvira13/PlataformaUR3_V8/releases/download/v8.0/Ejecutable.zip)
 
-###  Uso de ejecutable:
-**Nota**:Para el correcto uso del ejecutable se debe seguir las indicaciones como muestra el [manual del Usuario](https://github.com/alvira13/PlataformaUR3_V8/blob/main/Resources/Gu%C3%ADa%20de%20usuario/Manual%20de%20Usuario.pdf)
+###  Uso del ejecutable:
+**Nota**:Para el correcto uso del ejecutable se deben seguir las indicaciones como muestra el [manual del Usuario].(https://github.com/alvira13/PlataformaUR3_V8/blob/main/Resources/Gu%C3%ADa%20de%20usuario/Manual%20de%20Usuario.pdf)
 
 Desde una teminal ejecutar lo siguiente:
 
@@ -94,7 +94,7 @@ En una nueva terminal ejecutar:
 ```bash
 $ roslaunch rosbridge_server rosbridge_websocket.launch
 ```
-En la carpeta ***Ejecutable*** que se descarga se encuentra un archivo de python llamado ***ListarDatos.py***, debe abrir una teminal en esta dirección y ejecutar este script con el siguiente comando:
+En la carpeta ***Ejecutable*** que se descarga se encuentra un archivo de python llamado ***ListarDatos.py***, se debe abrir una teminal en esta dirección y ejecutar este script con el siguiente comando:
 
 **NOTA**: Se requiere contar con la versión de python3.
 
@@ -115,4 +115,4 @@ Ahora ejecutar el archivo llamado ***Ejecutable_V8.x86_64*** contenido en esta c
 - Juan Sebastian Montenegro (exlogam@unicauca.edu.co)
 
   🚀 
-  Tutor : Andrés Vivas      (avivas@unicauca.edu.co)
+  Tutor : PhD. Oscar Andrés Vivas Albán      (avivas@unicauca.edu.co)
